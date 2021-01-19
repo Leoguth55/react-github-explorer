@@ -10,7 +10,7 @@ export default createGlobalStyle`
   box-sizing: 0;
 }
 body {
-  background-color: #d3d3d3;
+  background-color: #d3d3d4;
   background-image: url(${githubBackground});
   background-repeat:no-repeat;
   background-position-y: 0;
