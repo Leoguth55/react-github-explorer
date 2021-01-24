@@ -37,7 +37,6 @@ export const Form = styled.form<FormProps>`
     }
   }
   button {
-    height: 70px;
     width: 210px;
     background: #6ca9e6;
     color: #fff;
